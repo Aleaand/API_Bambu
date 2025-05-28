@@ -14,7 +14,7 @@ Este repositorio contiene la API desarrollada como parte de la aplicación de Ba
 - Python + Flask
 - Firebase Firestore
 - Flask-CORS
-- 
+  
 ## API en línea
 
 La API está funcionando actualmente en:  
